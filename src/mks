@@ -1,0 +1,2 @@
+gcc mil.c -o mil -static -lmilter -pthread
+strip mil
